@@ -30,4 +30,3 @@ Le script utilise:
 
 La configuration Terraform se trouve dans terraform/.
 Les playbooks Ansible utilisent des roles Ansible Galaxy.
-test
